@@ -8,7 +8,7 @@ IMC = masse / (taille^2)
 La masse est en kg et la taille est en m.
 
 L'IMC si elle est inférieur de 18,5 cela indique une maigreur.
-L'IMC si elle est comprise entre 18,5 et 25 indique un IMC normal.
+L'IMC si elle est comprise entre 18,5 et 25 indique une IMC normal.
 L'IMC si elle est comprise entre 25 et 30 indique un surpoids.
 L'IMC si elle est comprise entre 30 et 40 indique une obésité.
 L'IMC si elle est supérieur à 40 cela indique une obésité massive.

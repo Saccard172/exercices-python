@@ -1,0 +1,16 @@
+def indice_de_masse_corporelle(masse,taille):
+    imc = masse/(taille)**2 # Indiquer la formule pour calculer l'IMC.
+    print("IMC = {:0.1f}".format(imc))
+    if imc <= 18.5:
+        print("Valeur d'IMC indiquant une maigreur")
+    elif ... < imc <= ... :
+        print("Valeur d'IMC normal")
+    elif ... < imc <= ... :
+        print("Valeur d'IMC indiquant un surpoids")
+    elif ... < imc <= ... :
+        print("Valeur d'IMC indiquant un obésité")
+    else :
+        print("Valeur d'IMC indiquant une obésité massive")
+    return ...
+
+imc = indice_de_masse_corporelle(...,...)

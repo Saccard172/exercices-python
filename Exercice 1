@@ -1,4 +1,4 @@
-Exercice 1 : Détermination de l'IMC (Indice de Masse Corporelle) en fonction de la masse et de la taille
+#Exercice 1 : Détermination de l'IMC (Indice de Masse Corporelle) en fonction de la masse et de la taille
 
 
 def indice_de_masse_corporelle(masse,taille):

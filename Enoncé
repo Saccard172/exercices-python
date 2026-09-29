@@ -2,3 +2,7 @@ Explication de l'exercice 1
 
 Le but de l'excercice est de déterminer l'indice de masse corporelle.
 À partir de la taille et de la masse on peut déterminer l'IMC en utilisant la formule suivante :
+
+IMC = masse / (taille^2)
+
+La masse est en kg et la taille est en m.
